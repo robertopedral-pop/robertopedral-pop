@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Roberto Pedral, product designer na Popcode" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-figma-dark.svg">
+  <img alt="Roberto Pedral, product designer na Popcode" src="assets/banner-figma-light.svg" width="100%">
 </picture>
 
 <br>
